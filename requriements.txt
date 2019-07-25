@@ -1,9 +1,0 @@
-dj-database-url
-dj-static
-Django
-django-heroku
-gunicorn
-psycopg2
-pytz
-static3
-whitenoise
